@@ -1,0 +1,23 @@
+package com.foo;
+
+/**
+ * Created by arildbirkeland on 25.04.2017.
+ */
+public class NotificationService {
+
+    public NotificationService () {
+
+    }
+
+    public void send() {
+
+    }
+    public void sendAsync() {
+
+    }
+
+    //@Override
+    public String toString() {
+        return "NotificationService{}";
+    }
+}

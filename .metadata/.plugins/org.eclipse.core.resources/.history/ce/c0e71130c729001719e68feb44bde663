@@ -1,0 +1,3 @@
+#server.port=9000
+
+#pageController.msg = "Heisann fra pageController i application.properties"
