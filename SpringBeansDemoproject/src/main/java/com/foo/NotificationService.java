@@ -21,6 +21,6 @@ public class NotificationService {
 
     //@Override
     public String toString() {
-        return "NotificationService{}";
+        return "NotificationService er super ass";
     }
 }

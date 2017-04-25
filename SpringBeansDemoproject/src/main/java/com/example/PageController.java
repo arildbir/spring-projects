@@ -27,8 +27,8 @@ public class PageController {
 	
 	@RequestMapping
 	public String home () {
-		//return notificationService.toString();
+		return notificationService.toString();
 		//return pageControllerMsg;
-		return mySecret;
+		//return mySecret;
 	}
 }
