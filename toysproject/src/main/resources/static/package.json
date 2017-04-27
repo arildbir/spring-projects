@@ -1,0 +1,16 @@
+{
+  "name": "toysproject-package",
+  "version": "1.0.0",
+  "description": "contains the npm js dependencies",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arild Birkeland",
+  "license": "ISC"
+}
